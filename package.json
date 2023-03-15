@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/<https://github.com/turboboyd/team-pro>/",
+    "build": "vite build --base=/<https://turboboyd.github.io/team-pro/>/",
     "preview": "vite preview"
   },
   "devDependencies": {
