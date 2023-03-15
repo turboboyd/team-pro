@@ -1,2 +1,2 @@
-<script src="./js/slick.min.js"></script>
-<script src="./js/click.js"></script>
+import "./js/slick.min";
+import "./js/click";
